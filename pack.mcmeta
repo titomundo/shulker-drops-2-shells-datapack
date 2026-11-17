@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 121,
+    "description": "Loot table minecraft:entities/shulker (mctools.gg)",
+    "min_format": 121,
+    "max_format": 121
+  }
+}
